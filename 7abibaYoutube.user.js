@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         7abiba Youtube
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  Sanitized youtube version for 7abiba
 // @author       Bondok
-// @updateURL    http://192.168.1.100/7yt.user.js
-// @downloadURL  http://192.168.1.100/7yt.user.js
-// @match        *.youtube.com*
+// @updateURL    https://github.com/mostafaz4/7abibaYoutube/raw/main/7abibaYoutube.user.js
+// @downloadURL  https://github.com/mostafaz4/7abibaYoutube/raw/main/7abibaYoutube.user.js
+// @match        *.youtube.com/*
 // @grant        none
 // ==/UserScript==
 
